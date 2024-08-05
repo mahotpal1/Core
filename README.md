@@ -1,2 +1,2 @@
 # Core
-All trainings Covered related to working Experience 
+Adding all learnings gained while working.
